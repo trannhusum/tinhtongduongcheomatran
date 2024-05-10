@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\tinhtongduongcheomatran\bin\Debug\tinhtongduongcheomatran.exe.config
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\tinhtongduongcheomatran\bin\Debug\tinhtongduongcheomatran.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\tinhtongduongcheomatran\bin\Debug\tinhtongduongcheomatran.pdb
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\tinhtongduongcheomatran\obj\Debug\tinhtongduongcheomatran.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\tinhtongduongcheomatran\obj\Debug\tinhtongduongcheomatran.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\tinhtongduongcheomatran\obj\Debug\tinhtongduongcheomatran.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\tinhtongduongcheomatran\obj\Debug\tinhtongduongcheomatran.pdb
